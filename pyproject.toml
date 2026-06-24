@@ -1,0 +1,15 @@
+[project]
+name = "llm-attention-visualizer"
+version = "1.0.0"
+description = "Interactive transformer attention & entropy heatmap visualizer"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "huggingface-hub>=1.3.5",
+    "numpy>=2.3.5",
+    "torch>=2.10.0",
+    "transformers[torch]>=5.0.0",
+]
+
+[[tool.uv.index]]
+url = "https://download.pytorch.org/whl/cu128"
