@@ -1,8 +1,9 @@
 # Interactive Transformer Attention & Entropy Visualizer
 
 > Explore how a causal language model distributes its attention across text — in the browser, with zero dependencies.
+> [View Demo](https://plcarmona.github.io/llm-attention-visualizer)
+<img width="1283" height="681" alt="image" src="https://github.com/user-attachments/assets/1834728a-8179-43cf-86b1-7ae4cc3fda5f" />
 
-![Demo](docs/demo.gif)
 
 ## Why attention entropy matters
 
